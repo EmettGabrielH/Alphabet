@@ -1,5 +1,5 @@
 # Alphabetiseur 1.0
-# Createur Emett Haddad
+# Createur Emett
 NB_LETTRES = 30
 MAX_L = 6
 
